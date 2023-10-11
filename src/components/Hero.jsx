@@ -1,7 +1,7 @@
 import React from "react";
 import { heroData } from "../data";
 import Header from "../components/Header";
-import {AiOutlineArrowRight} from "react-icons/ai"
+import {AiOutlineArrowRight} from "react-icons/ai";
 
 const Hero = () => {
   const { title, subtitle, btnText, image } = heroData;
