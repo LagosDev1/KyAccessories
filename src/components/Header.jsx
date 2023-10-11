@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
-import Logo from "../assets/img/flowerLogo.png";
+import main from '../main.png;'
+// import Logo from "../assets/img/flowerLogo.png";
 import Nav from "../components/Nav";
 import NavMobile from "../components/NavMobile";
 
