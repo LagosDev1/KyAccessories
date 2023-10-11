@@ -1,6 +1,6 @@
 ## A webpage with AOS cool animations examples.
 
-<img src="public/aosWebpage.png"/>
+
 
 ### Dynamic data rendering
 
